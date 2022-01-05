@@ -4,13 +4,13 @@ from pyrogram.types import InlineKeyboardButton
 class Data:
     # Start Message
     START = """
-Hey {}
+Hai {}
 
-Welcome to {}
+Selamat datang di {}
 
-I can extract text from images using OCR technology.
+Saya dapat mengekstrak teks dari gambar menggunakan teknologi OCR.
 
-By @StarkBots
+By @AnkiSatya
     """
 
     # Home Button
@@ -33,11 +33,11 @@ By @StarkBots
 
     # Help Message
     HELP = """
-You Really Need Help ?!?!?!?!
+Anda Sangat Membutuhkan Bantuan ?!?!?!?!
 
-Just send an image. Rest is on me.
+Cukup Kirim Gambar Saja.
 
-Note : You can send any amount of images at once and it will work with same speed and accuracy.
+Note : Anda dapat mengirim sejumlah gambar sekaligus dan itu akan bekerja dengan kecepatan dan akurasi yang sama.
 
 More features in development. Keep track by joining @StarkBots.
     """
@@ -46,7 +46,7 @@ More features in development. Keep track by joining @StarkBots.
     ABOUT = """
 **About This Bot** 
 
-Bot created by @StarkBots
+Bot created by @AnkiSatya
 
 Source Code : [Click Here](https://github.com/StarkBotsIndustries/OCRBot)
 
